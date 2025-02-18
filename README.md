@@ -11,7 +11,6 @@
 - [Deployment](#deployment)
 - [Dependencies](#dependencies)
 - [Stack](#stack)
-- [License](#license)
 
 ## Features
 
@@ -131,5 +130,3 @@ This promotes your latest deployment to production.
 - Tailwind CSS
 - Lucide-React
 - React-Card-Flip
-
-## License
